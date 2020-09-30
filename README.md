@@ -17,7 +17,7 @@ a sheet music transcriber, and a somewhat-working approximation of the original 
 [Running]
 Run launcher.py and choose from the menu.
 
-[Modules used]
+[Modules and libraries used]
 * Python built-in modules (that we didn't go over in class)
 	* threading
 		* Documentation: http://docs.python.org/2/library/threading.html
